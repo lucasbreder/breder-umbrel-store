@@ -9,7 +9,7 @@ services:
       - ./uploads:/directus/uploads
       - ./extensions:/directus/extensions
     environment:
-      SECRET: "replace-with-secure-random-value"
+      SECRET: "lMUP7SrhIuLL3L0PI18V1wk8V79Hznbv"
       ADMIN_EMAIL: "admin@example.com"
       ADMIN_PASSWORD: "d1r3ctu5"
       DB_CLIENT: "sqlite3"
